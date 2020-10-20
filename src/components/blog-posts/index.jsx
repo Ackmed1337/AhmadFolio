@@ -5,7 +5,7 @@ import SummaryItem from '../summary-item';
 
 const BlogPosts = ({ posts }) => {
   return (
-    <Section title="All Blog Posts">
+    <Section title="All Future Projects">
       {posts.map((post) => (
         <SummaryItem
           key={post.node.fields.slug}
