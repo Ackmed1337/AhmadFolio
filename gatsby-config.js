@@ -21,7 +21,7 @@ module.exports = {
       {
         name: 'CryptoTracker',
         description:
-          'Cryptocurrency Tracker based around the three second intervals used on the API',
+          ' Versatile simplistic Cryptocurrency Tracker based around the CoinBase API with three second interval times for updates ',
         link: 'https://github.com/Ackmed1337/CryptoTracker',
       },
     ],
