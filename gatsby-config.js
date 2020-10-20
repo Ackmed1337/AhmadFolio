@@ -38,7 +38,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Node.js, Express.js, React, PHP',
+          'JavaScript (ES6+), HTML, CSS, .Net, Python, Java, Node.js, Express.js, React, PHP',
       },
       {
         name: 'Databases',
