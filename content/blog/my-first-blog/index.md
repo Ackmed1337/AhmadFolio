@@ -1,5 +1,5 @@
 ---
-title: My First Blog Post
+title: Placeholder for Future Projects 1
 date: '2020-09-20T12:00:00.00Z'
 description: 'Ducimus perferendis porro cumque ea error ab voluptatem'
 ---

@@ -1,5 +1,5 @@
 ---
-title: My Fourth Blog Post
+title: Placeholder for Future Projects 2
 date: '2020-10-12T12:00:00.00Z'
 description: 'Unde reprehenderit inventore sunt, consequatur'
 ---
