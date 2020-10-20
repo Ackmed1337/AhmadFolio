@@ -19,40 +19,18 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'CryptoTracker',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'ChromeExtensionKit',
-        description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
-      },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Cryptocurrency Tracker based around the three second intervals used on the API',
+        link: 'https://github.com/Ackmed1337/CryptoTracker',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Officeworks',
+        description: 'Retail Assistant, April 2016 - 2016',
+        link: 'https://www.linkedin.com/company/officeworks/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,16 +38,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript (ES6+), Node.js, Express.js, React, PHP',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'MongoDB, SQL, MySQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Docker, Amazon Web Services (AWS), Agile / Scrum',
       },
     ],
   },
