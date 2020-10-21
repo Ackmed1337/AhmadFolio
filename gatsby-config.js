@@ -47,7 +47,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), Agile / Scrum',
+          'Docker, Amazon Web Services (AWS), Agile / Scrum, Zeplin',
       },
     ],
   },
