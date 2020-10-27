@@ -8,14 +8,12 @@ module.exports = {
     title: `Ahmad ElSayed | Developer`,
     // Description that goes under your name in main bio
     description: `FullStack Developer `,
-    // Optional: Twitter account handle
-    author: ``,
     // Optional: Github account URL
     github: `https://github.com/Ackmed1337`,
-    // Resume Link
-    resume: 'https://pdfhost.io/v/xsps6CdoX_Microsoft_Word_CV_AElSayed.pdf',
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/elsayed-ahmad/`,
+    // Resume Link
+    resume: 'https://pdfhost.io/v/xsps6CdoX_Microsoft_Word_CV_AElSayed.pdf',
     // Content of the About Me section
     about: `A Developer currently a student at Deakin University and holds a Diploma and Certificate III in Information Technology while studying to complete a bachelor's. He has a keen interest in mechanical projects.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
