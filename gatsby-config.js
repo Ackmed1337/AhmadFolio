@@ -7,11 +7,13 @@ module.exports = {
     // Main Site Title
     title: `Ahmad ElSayed | Developer`,
     // Description that goes under your name in main bio
-    description: `FullStack | Software | Web Developer `,
+    description: `FullStack Developer `,
     // Optional: Twitter account handle
     author: ``,
     // Optional: Github account URL
     github: `https://github.com/Ackmed1337`,
+    // Resume Link
+    resume: 'https://pdfhost.io/v/xsps6CdoX_Microsoft_Word_CV_AElSayed.pdf',
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/elsayed-ahmad/`,
     // Content of the About Me section
