@@ -46,6 +46,7 @@ export const pageQuery = graphql`
         about
         github
         linkedin
+        resume
         projects {
           name
           description
