@@ -9,7 +9,7 @@ const classes = {
   imageWrapper: 'w-full max-w-150',
   image: 'rounded-full transform transition-all duration-150 hover:scale-105',
   contentWrapper: 'flex-none pt-6 md:pt-1 md:flex-1 md:pl-20',
-  name: 'text-4xl text-black-400 font-bold leading-tight font-weight-500',
+  name: 'text-4xl text-black-400 leading-tight',
   description: 'text-gray-600',
   list: 'mt-6 uppercase tracking-wider',
   item: 'inline list-none pr-4',
